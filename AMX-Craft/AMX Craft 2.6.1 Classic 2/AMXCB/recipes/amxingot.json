@@ -1,0 +1,25 @@
+{
+	"format_version":"1.12",
+	"minecraft:recipe_shaped":{
+		"result":{
+			"item":"ac:amxingot",
+			"count":9
+		},
+		"pattern":[
+			"   ",
+			" E ",
+			"   "
+		],
+		"description":{
+			"identifier":"ac:amxingot"
+		},
+		"key":{
+			"E":{
+				"item":"ac:amxblock"
+			}
+		},
+		"tags":[
+			"crafting_table"
+		]
+	}
+}

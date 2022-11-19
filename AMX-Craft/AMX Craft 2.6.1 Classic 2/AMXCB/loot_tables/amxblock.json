@@ -1,0 +1,17 @@
+{
+	"pools":[
+		{
+			"entries":[
+				{
+					"name":"ac:amxpowder",
+					"weight":1,
+					"type":"item"
+				}
+			],
+			"rolls":{
+				"min":16,
+				"max":64
+			}
+		}
+	]
+}

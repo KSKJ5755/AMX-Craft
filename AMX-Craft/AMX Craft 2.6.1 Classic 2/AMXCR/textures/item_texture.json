@@ -1,0 +1,114 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "ac_amxmagic": {
+      "textures": "textures/items/pamobile/ac_amxmagic"
+    },
+    "ac_amxgun": {
+      "textures": "textures/items/pamobile/ac_amxgun"
+    },
+    "pa:amxstick": {
+      "textures": "textures/items/pamobile/pa_amxstick"
+    },
+    "pa:amxdmdblack_four": {
+      "textures": "textures/items/pamobile/pa_amxdmdblack_four"
+    },
+    "ac_amxsword": {
+      "textures": "textures/items/pamobile/ac_amxsword"
+    },
+    "ac_amxsk": {
+      "textures": "textures/items/pamobile/ac_amxsk"
+    },
+    "pa:amxcm": {
+      "textures": "textures/items/pamobile/pa_amxcm"
+    },
+    "pa_amxswordsmall": {
+      "textures": "textures/items/pamobile/pa_amxswordsmall"
+    },
+    "pa:amxdmdblack_two": {
+      "textures": "textures/items/pamobile/pa_amxdmdblack_two"
+    },
+    "pa:amxdmdblack_five": {
+      "textures": "textures/items/pamobile/pa_amxdmdblack_five"
+    },
+    "pa:amxblackdmd_one": {
+      "textures": "textures/items/pamobile/pa_amxblackdmd_one"
+    },
+    "pa:amxblackdmd": {
+      "textures": "textures/items/pamobile/pa_amxblackdmd"
+    },
+    "ac:anmuxi": {
+      "textures": "textures/items/pamobile/ac_anmuxi"
+    },
+    "pa_amxchui": {
+      "textures": "textures/items/pamobile/pa_amxchui"
+    },
+    "ac_amxmao": {
+      "textures": "textures/items/pamobile/ac_amxmao"
+    },
+    "pa:amxdmdblack_there": {
+      "textures": "textures/items/pamobile/pa_amxdmdblack_there"
+    },
+    "ac_amxmkd": {
+      "textures": "textures/items/pamobile/ac_amxmkd"
+    },
+    "ac_amxpickaxe": {
+      "textures": "textures/items/pamobile/ac_amxpickaxe"
+    },
+    "ac:amxheavytool": {
+      "textures": "textures/items/pamobile/ac_amxheavytool"
+    },
+    "ac_amxchu": {
+      "textures": "textures/items/pamobile/ac_amxchu"
+    },
+    "ac_amxchan": {
+      "textures": "textures/items/pamobile/ac_amxchan"
+    },
+    "ac:amxding": {
+      "textures": "textures/items/pamobile/ac_amxding"
+    },
+    "ac:yiqianmuxi2020": {
+      "textures": "textures/items/pamobile/ac_yiqianmuxi2020"
+    },
+    "ac_amxaxe": {
+      "textures": "textures/items/pamobile/ac_amxaxe"
+    },
+    "amxcombustibleingot":{
+	  "textures":"textures/icons/amxcombustibleingot"
+	},
+	"amxingot":{
+	  "textures":"textures/icons/amxingot"
+	},
+	"amxfirel":{
+	  "textures":"textures/icons/amxfirel"
+	},
+	"amxpowder":{
+	  "textures":"textures/icons/amxpowder"
+	},
+	"ac_amxcombustibleingot":{
+	  "textures":"textures/icons/amxcombustibleingot"
+	},
+	"ac_amxingot":{
+	  "textures":"textures/icons/amxingot"
+	},
+	"ac_amxfirel":{
+	  "textures":"textures/icons/amxfirel"
+	},
+	"ac_amxpowder":{
+	  "textures":"textures/icons/amxpowder"
+	},
+	"ac_solidifymedicament":{
+	  "textures":"textures/icons/solidifymedicamentp1"
+	},
+	"ac_amxingotp2":{
+	  "textures":"textures/icons/amxingotp2"
+	},
+	"ac_amxbox":{
+	  "textures":"textures/icons/amxbox"
+	},
+	"ac_amxpineapple":{
+	  "textures":"textures/icons/amxpineapple"
+	}
+  }
+}

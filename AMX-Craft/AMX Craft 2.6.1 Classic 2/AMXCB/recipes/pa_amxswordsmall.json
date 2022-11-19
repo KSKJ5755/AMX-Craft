@@ -1,0 +1,27 @@
+{
+  "format_version": "1.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pa:amxswordsmall"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "AAA",
+      " B "
+    ],
+    "key": {
+      "A": {
+        "item": "pa:anmuxi"
+      },
+      "B": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "pa:amxswordsmall"
+    }
+  }
+}

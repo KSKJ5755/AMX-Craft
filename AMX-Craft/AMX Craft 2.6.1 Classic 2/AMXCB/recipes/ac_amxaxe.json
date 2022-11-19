@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "amxaxe_361f99ed"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "ac:anmuxi",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "ac:amxaxe",
+      "count": 1
+    }
+  }
+}
