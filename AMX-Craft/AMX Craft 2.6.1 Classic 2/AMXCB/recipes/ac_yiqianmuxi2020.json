@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "yiqianmuxi2020_a494a9fe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "key": {
+      "B": {
+        "item": "ac:anmuxi",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "ac:yiqianmuxi2020",
+      "count": 10
+    }
+  }
+}

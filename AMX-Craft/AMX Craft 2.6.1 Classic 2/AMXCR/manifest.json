@@ -1,0 +1,24 @@
+{
+	"format_version":2,
+	"header":{
+		"min_engine_version":[1,16,0],
+		"name":"AMX Craft资源包",
+		"description":"由§2苦力怕论坛§6@普通的用户名§b、§2苦力怕论坛§6@流然§b和§1快手科家§4共同§l制作",
+		"uuid":"4a85a42c-42e3-44dd-99fa-ad862124af33",
+		"version":[0,0,1]
+	},
+	"modules":[
+		{
+			"description":"由§2苦力怕论坛§6@普通的用户名§b、§2苦力怕论坛§6@流然§b和§1快手科家§4共同§l制作",
+			"type":"resources",
+			"uuid":"69ee4913-e425-41b3-b6d3-32deb92c09db",
+			"version":[0,0,1]
+		}
+	],
+	"dependencies":[
+		{
+			"uuid":"cefa4ee6-21bb-42a5-8800-affb4cde359b",
+			"version":[0,0,1]
+		}
+	]
+}

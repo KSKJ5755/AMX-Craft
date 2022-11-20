@@ -1,0 +1,14 @@
+{
+  "ikun.singjumprapbasketball": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/ikun/singjumprapbasketball"
+    ]
+  },
+  "ac_amxgun_shot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/ac_amxgun_shot"
+    ]
+  }
+}

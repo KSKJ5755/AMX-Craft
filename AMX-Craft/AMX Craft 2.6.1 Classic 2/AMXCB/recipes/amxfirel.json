@@ -1,0 +1,25 @@
+{
+	"format_version":"1.12",
+	"minecraft:recipe_shaped":{
+		"result":{
+			"item":"ac:amxfirel",
+			"count":9
+		},
+		"pattern":[
+			"   ",
+			" E ",
+			"   "
+		],
+		"description":{
+			"identifier":"ac:amxfirel"
+		},
+		"key":{
+			"E":{
+				"item":"ac:amxcombustibleingot"
+			}
+		},
+		"tags":[
+			"crafting_table"
+		]
+	}
+}

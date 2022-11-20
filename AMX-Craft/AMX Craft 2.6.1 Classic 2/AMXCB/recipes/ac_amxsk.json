@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "amxsk_78de6ed1"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B",
+      "C"
+    ],
+    "key": {
+      "B": {
+        "item": "ac:anmuxi",
+        "data": 0
+      },
+      "C": {
+        "item": "pa:amxstick",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "ac:amxsk",
+      "count": 1
+    }
+  }
+}

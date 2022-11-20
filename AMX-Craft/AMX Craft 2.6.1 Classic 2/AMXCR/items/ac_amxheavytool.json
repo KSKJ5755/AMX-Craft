@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ac:amxheavytool",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "ac:amxheavytool",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

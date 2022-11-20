@@ -1,0 +1,25 @@
+{
+	"format_version":"1.12",
+	"minecraft:recipe_shaped":{
+		"result":{
+			"item":"ac:amxblock",
+			"count":1
+		},
+		"pattern":[
+			"AAA",
+			"AAA",
+			"AAA"
+		],
+		"description":{
+			"identifier":"ac:amxblock"
+		},
+		"key":{
+			"A":{
+				"item":"ac:amxingot"
+			}
+		},
+		"tags":[
+			"crafting_table"
+		]
+	}
+}
