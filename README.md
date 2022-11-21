@@ -16,7 +16,7 @@
 
 > 1.普通的用户名/Kastname(Kastname22)  --附加包作者
 
-> 2.快手科家/KSKJ(KSKJ5755)  --隶属包作者
+> 2.快手科家/KSKJ(KSKJ5755)  --Github仓库和隶属包作者
 
 > 3.流然/Liuran(liuran2022)  --杂性创作者
 
@@ -40,7 +40,7 @@
 
 > 1. Kastname/普通的用户名 (Kastname22) -- additional package author
 
-> 2. KSKJ/快手科家 (KSKJ5755) - subordinate to the author of the package
+> 2. KSKJ/快手科家 (KSKJ5755) - Github repo and subordinate to the author of the package
 
 > 3. Liuran/流然(liuran2022) -- miscellaneous creator
 
