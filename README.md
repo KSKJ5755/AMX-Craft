@@ -44,4 +44,7 @@
 
 > 3. Liuran/流然(liuran2022) -- miscellaneous creator
 
+> 4.小鬼£(萌新)  --Publicity Department
+
+
 * Now, enjoy yourself!
