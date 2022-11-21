@@ -1,1 +1,0 @@
-give @s pa:amxblackdmd_one
