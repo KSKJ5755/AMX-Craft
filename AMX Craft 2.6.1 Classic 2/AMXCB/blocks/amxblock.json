@@ -1,0 +1,23 @@
+{
+	"format_version":"1.16.0",
+	"minecraft:block":{
+		"components":{
+			"minecraft:flammable":{
+				"burn_odds":0.1,
+				"flame_odds":0.9
+			},
+			"minecraft:block_light_absorption":0.1,
+			"minecraft:block_light_emission":0.1,
+			"minecraft:explosion_resistance":5,
+			"minecraft:loot":"amxblock.json",
+			"minecraft:friction":0.5,
+			"minecraft:destroy_time":5,
+			"minecraft:map_color":"#FFFFFF"
+		},
+		"description":{
+			"identifier":"ac:amxblock",
+			"register_to_creative_menu":true,
+			"is_experimental":true
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pa:amxdmdblack_there",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "pa:amxdmdblack_there",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

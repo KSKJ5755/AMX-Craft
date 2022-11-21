@@ -1,0 +1,28 @@
+{
+	"format_version":"1.12",
+	"minecraft:recipe_shaped":{
+		"result":{
+			"item":"ac:amxfirel",
+			"count":1
+		},
+		"pattern":[
+			"   ",
+			"DE ",
+			"   "
+		],
+		"description":{
+			"identifier":"ac:amxfirel"
+		},
+		"key":{
+			"D":{
+				"item":"minecraft:gunpowder"
+			},
+			"E":{
+				"item":"ac:amxpowder"
+			}
+		},
+		"tags":[
+			"crafting_table"
+		]
+	}
+}
